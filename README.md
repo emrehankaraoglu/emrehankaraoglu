@@ -10,11 +10,10 @@ I'm Emrehan from Turkey, and I am interrested in AI and Computer Vision.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emrehankaraoglu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emrehankaraoglu/)  
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrehankaraoglu)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emrehankaraoglu&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrehankaraoglu)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emrehankaraoglu&show_icons=true&align='right')  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emrehankaraoglu)  
 
