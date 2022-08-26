@@ -1,10 +1,12 @@
-### Hi there 👋, Emrehan Karaoglu
+## Hi there 👋, Emrehan Karaoglu
 #### AI | Computer Vision
 ![AI | Computer Vision](https://github.com/emrehankaraoglu/emrehankaraoglu/blob/main/giphy.gif)
 
 I'm Emrehan from Turkey, and I am interrested in AI and Computer Vision.
 
-Skills: Python (TensorFlow/Keras/Pytorch/OpenCV) 
+## Skills
+* 
+
 
 - 🔭 I’m currently working on  Yongatek Microelectronics 
 - 🌱 I’m currently learning GANs 
