@@ -1,5 +1,7 @@
-### Hi there 👋, Emrehan Kaaraoglu
+### Hi there 👋, Emrehan Karaoglu
 #### AI | Computer Vision
+![AI | Computer Vision](https://github.com/emrehankaraoglu/emrehankaraoglu/blob/main/giphy.gif)
+
 I'm Emrehan from Turkey, and I am interrested in AI and Computer Vision.
 
 Skills: Python (TensorFlow/Keras/Pytorch/OpenCV) 
@@ -17,5 +19,8 @@ Skills: Python (TensorFlow/Keras/Pytorch/OpenCV)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emrehankaraoglu)  
 
+![GitHub metrics](https://metrics.lecoq.io/emrehankaraoglu)  
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=emrehankaraoglu)  
 
+![Profile views](https://gpvc.arturio.dev/emrehankaraoglu)  
