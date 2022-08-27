@@ -1,4 +1,4 @@
-## Hi there 👋, Emrehan Karaoglu - AI | Computer Vision                                       ![Profile views](https://gpvc.arturio.dev/emrehankaraoglu)  
+## Hi there 👋, Emrehan Karaoglu                                 
 ![AI | Computer Vision](https://github.com/emrehankaraoglu/emrehankaraoglu/blob/main/ms.gif)
 
 I'm Emrehan from Turkey, and I am interrested in AI and Computer Vision.
