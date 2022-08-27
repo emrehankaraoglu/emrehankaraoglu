@@ -11,7 +11,7 @@ I'm Emrehan from Turkey, and I am interrested in AI and Computer Vision.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrehankaraoglu)](https://github.com/emrehankaraoglu/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emrehankaraoglu&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emrehankaraoglu&show_icons=true&theme=radical)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emrehankaraoglu)  
 
